@@ -7,6 +7,15 @@ div {
 img {
     border-radius: 8px;
 }
+#personal-avatar {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 150%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 h1 {text-align: center;}
 h2 {text-align: center;}
 h3 {background-color: lightgray}
