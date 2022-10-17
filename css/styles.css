@@ -1,5 +1,7 @@
 body {
     background-color: lavender;
+    font-family: 'Georgia', sans-serif;
+    cursor: pointer;
 }
 div {
     background-color: lavender;
@@ -15,6 +17,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 3px solid rgb(36, 35, 35);
 }
 h1 {text-align: center;}
 h2 {text-align: center;}
