@@ -19,6 +19,9 @@ img {
     margin-right: auto;
     border: 3px solid rgb(36, 35, 35);
 }
+#quote {
+    text-align: center;
+}
 h1 {text-align: center;}
 h2 {text-align: center;}
 h3 {background-color: lightgray}
